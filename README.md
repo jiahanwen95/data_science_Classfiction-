@@ -8,7 +8,7 @@ Project Organization
 
     The original data-set is in the data folder
     
-    Source code under the notebook directory
+    Notebook with Source code and visualizations under the notebook directory
     
     
     
