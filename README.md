@@ -1,12 +1,17 @@
-# data_science_Classfiction
+eecs741P2
+==============================
 
+To be, or not to be
 
--Classy Shakespeare plays and players
+Project Organization
+------------
 
--Set up a data science project structure in a new git repository in your GitHub account
--Download the Shakespeare plays dataset 
--Load the data set into panda data frames
--Formulate one or two ideas on how feature engineering would help the data set to establish additional value using exploratory data analysis
--Build one or more classification models to determine the player using the other columns as features
--Document your process and results
--Commit your notebook, source code, visualizations and other supporting files to the git repository in GitHub
+    The original data-set is in the data folder
+    
+    Source code under the notebook directory
+    
+    
+    
+--------
+
+<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
